@@ -34,9 +34,10 @@
 
 - Python **3.9** или новее
 - Flet **0.25.2** (или новее)
+- Windows 10 x64
 
 
 **Как запустить:**
-1. Скачайте `currency_converter.exe`
+1. Скачайте `currency_converter_win64.exe `
 2. Запустите файл
 
