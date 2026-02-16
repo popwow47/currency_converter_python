@@ -35,22 +35,4 @@
 - Python **3.9** или новее
 - Flet **0.25.2** (или новее)
 
-## Установка и запуск
 
-### Вариант 1 — самый простой (рекомендуется)
-
-```bash
-# 1. Клонируем репозиторий
-git clone https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.git
-cd ВАШ_РЕПОЗИТОРИЙ
-
-# 2. Создаём виртуальное окружение (рекомендуется)
-python -m venv venv
-source venv/bin/activate          # Linux/macOS
-venv\Scripts\activate             # Windows
-
-# 3. Устанавливаем зависимости
-pip install -r requirements.txt
-
-# 4. Запускаем
-python currency_converter_flet_full2.py
